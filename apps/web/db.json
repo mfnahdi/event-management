@@ -1,0 +1,61 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "description": "lorem",
+      "price": 2000,
+      "date": "2024-01-20",
+      "category": "Music",
+      "location": "Jakarta",
+      "seat": 1,
+      "image": "/ed.bmp"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "description": "lorem",
+      "price": 2000,
+      "date": "2024-01-21",
+      "category": "Sports",
+      "location": "Batam",
+      "seat": 1,
+      "image": "/inc.bmp"
+    },
+    {
+      "id": 3,
+      "title": "GG",
+      "description": "Good Game.",
+      "date": "2025-01-22",
+      "category": "Sport",
+      "location": "Bali",
+      "price": 2000,
+      "seat": 3,
+      "image": "https://img.myloview.com/stickers/gg-logo-letter-monogram-slash-with-modern-logo-designs-template-700-183446927.jpg"
+    },
+    {
+      "id": 4,
+      "title": "makanan",
+      "description": "berbagai makanan",
+      "details": "lomba berbagai makanan \npukul 22:00 - 23:00\n\n\n\noleh makanan.id",
+      "date": "2024-01-29",
+      "category": "Sport",
+      "location": "Bali",
+      "price": 24000,
+      "seat": 8,
+      "image": "https://anakjajan.files.wordpress.com/2019/07/dscf5282.jpg?w=474&h=317"
+    },
+    {
+      "id": 5,
+      "title": "Festival",
+      "description": "ok",
+      "details": "...",
+      "date": "2024-03-28",
+      "category": "festival",
+      "location": "Batam",
+      "price": 0,
+      "seat": 992,
+      "image": "https://www.indonesia.travel/content/dam/indtravelrevamp/microsite-event/plan-your-trip/event-festival.jpg"
+    }
+  ]
+}
